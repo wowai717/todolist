@@ -4,7 +4,7 @@ https://www.figma.com/design/OEcigLjHqthWpC22dFDZMe/todolist?node-id=0-1&t=pT44F
 
 ## 📚 프로젝트 소개
 
-React와 NestJS를 이용해 만드는 간단한 할 일 목록 웹 애플리케이션입니다.
+React와 NestJS를 이용해 만드는 Todolist
 
 ## 📂 폴더 구조
 
